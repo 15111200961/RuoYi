@@ -1,4 +1,4 @@
-package com.ruoyi;
+package com.ruoyi.mytest;
 
 import org.junit.Test;
 
